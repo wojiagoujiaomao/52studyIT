@@ -1,2 +1,2 @@
-# 52studyIT
-IT资料目录
+# IT资料目录
+#Python
